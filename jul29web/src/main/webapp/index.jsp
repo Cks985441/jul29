@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>서버에 올려봅니다.</h1>
+<% String name = "GITGUDD"; %>
+	<h1><%=name %>님이 서버에 올려봅니다.</h1>
 </body>
 </html>
